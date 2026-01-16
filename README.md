@@ -6,6 +6,7 @@
 
 
 
-<img width="960" height="402" alt="Captura de tela de 2026-01-16 19-48-29" src="https://github.com/user-attachments/assets/ed038016-7afd-4f67-8142-df0edcf9ec71" />
 
 
+
+<img width="961" height="541" alt="json" src="https://github.com/user-attachments/assets/ec735e84-7a8e-4c49-a63b-5dd291ce4629" />
