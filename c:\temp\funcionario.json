@@ -1,0 +1,16 @@
+{
+  "Matricula": "349148792",
+  "DataAdmicao": "2026-01-16T19:34:02.9111791-03:00",
+  "Salario": 93489124,
+  "Id": "854fb843-ad83-487c-b23c-3aa5235ebbbb",
+  "Name": "Robert",
+  "Cpf": "2318491843",
+  "Endereco": {
+    "Id": "8eb6d520-d2b1-4682-bad6-e9e294a94e19",
+    "Logradouro": "Logradouro",
+    "Bairro": "S\u00E3o francisco",
+    "Cidade": "RJ",
+    "Estado": "RJ",
+    "Cep": "348914"
+  }
+}

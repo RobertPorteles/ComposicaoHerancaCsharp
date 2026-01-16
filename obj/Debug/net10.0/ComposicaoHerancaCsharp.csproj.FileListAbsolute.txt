@@ -1,0 +1,14 @@
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/bin/Debug/net10.0/ComposicaoHerancaCsharp
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/bin/Debug/net10.0/ComposicaoHerancaCsharp.deps.json
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/bin/Debug/net10.0/ComposicaoHerancaCsharp.runtimeconfig.json
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/bin/Debug/net10.0/ComposicaoHerancaCsharp.dll
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/bin/Debug/net10.0/ComposicaoHerancaCsharp.pdb
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ComposicaoHerancaCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ComposicaoHerancaCsharp.AssemblyInfoInputs.cache
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ComposicaoHerancaCsharp.AssemblyInfo.cs
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ComposicaoHerancaCsharp.csproj.CoreCompileInputs.cache
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ComposicaoHerancaCsharp.dll
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/refint/ComposicaoHerancaCsharp.dll
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ComposicaoHerancaCsharp.pdb
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ComposicaoHerancaCsharp.genruntimeconfig.cache
+/home/robertporteles/Documentos/DesenvolvimentoAngular/ComposicaoHerancaCsharp/obj/Debug/net10.0/ref/ComposicaoHerancaCsharp.dll

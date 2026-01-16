@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ComposicaoHerancaCsharp/1.0.0": {
+        "runtime": {
+          "ComposicaoHerancaCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComposicaoHerancaCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
